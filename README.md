@@ -109,8 +109,8 @@ For a complete list of dependencies, refer to the `package.json` file.
 
 ## Screenshots/Demo
 
-### Homepage
-![Homepage Screenshot](https://via.placeholder.com/800x400?text=Homepage)
+### Chat Page
+![Chat Page Screenshot](https://github.com/shivansh806/chat-app/blob/main/Chat%20Page.png?raw=true)
 
 ### Chat Room
 ![Chat Room Screenshot](https://via.placeholder.com/800x400?text=Chat+Room)
