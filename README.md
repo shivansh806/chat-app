@@ -112,11 +112,11 @@ For a complete list of dependencies, refer to the `package.json` file.
 ### Chat Page
 ![Chat Page Screenshot](https://github.com/shivansh806/chat-app/blob/main/Chat%20Page.png?raw=true)
 
-### Chat Room
-![Chat Room Screenshot](https://via.placeholder.com/800x400?text=Chat+Room)
+### Profile Page
+![Profile Page Screenshot](https://raw.githubusercontent.com/shivansh806/chat-app/5ef9349d643391f08341c7dd9857684f9a0d2660/Profile%20Page.png)
 
-### Demo Video
-[Watch Demo Video](https://via.placeholder.com/link-to-demo-video)
+### Login Page
+[Login Page Screenshot]()
 
 ---
 
