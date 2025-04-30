@@ -4,13 +4,9 @@ A real-time chat application built using modern web technologies. This applicati
 
 ## Features
 
-- **Real-Time Messaging**: Send and receive messages instantly using WebSocket technology.
+-**Profile Setup**: User can setup their profile with image.
 - **User Authentication**: Secure login and registration for users.
-- **Chat Rooms**: Create or join chat rooms for group conversations.
-- **Private Messaging**: Send direct messages to other users.
 - **Responsive Design**: Fully functional on desktop and mobile devices.
-- **Typing Indicators**: Shows when a user is typing in the chat.
-- **Read Receipts**: Know when your messages have been read.
 - **Emojis and Attachments**: Express yourself with emojis and share files.
 
 ## Tech Stack
